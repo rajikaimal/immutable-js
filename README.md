@@ -15,7 +15,7 @@ List of immutable functions in JavaScript
   console.log(name) //Stephanie Hwang
   ```
 
-- [2.0](#1.0) <a name='1.0'></a> concat
+- [2.0](#2.0) <a name='1.0'></a> concat
 
   ```js
   // concatenate two strings
@@ -34,7 +34,7 @@ List of immutable functions in JavaScript
   
   ```
   
-- [3.0](#1.0) <a name='1.0'></a> replace
+- [3.0](#3.0) <a name='1.0'></a> replace
 
   ```js
   // replaces matching section of a the string which is explicitly passed to replace function
@@ -48,7 +48,7 @@ List of immutable functions in JavaScript
   console.log(str) //Harry is a memeber of gryffindor.
   ```
   
-- [4.0](#1.0) <a name='1.0'></a> split
+- [4.0](#4.0) <a name='1.0'></a> split
 
   ```js
   //split a given string into an array of strings
@@ -60,7 +60,7 @@ List of immutable functions in JavaScript
   console.log(newstr) //[Apples, are]
   console.log(str) //Apples are round, and apples are juicy.
   ```
-- [5.0](#1.0) <a name='1.0'></a> substr
+- [5.0](#5.0) <a name='1.0'></a> substr
 
   ```js
   //extracts part of a string
