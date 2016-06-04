@@ -1,6 +1,10 @@
-# immutable-js
-List of immutable functions in JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="100">
+<a href="https://promisesaplus.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="100" align="right" />
+</a>
 
+# immutable-js
+
+List of immutable functions in JavaScript
 
 - [1.0](#1.0) <a name='1.0'></a> slice
 
