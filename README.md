@@ -62,7 +62,7 @@ List of immutable functions in JavaScript
   var newstr = str.split(" ", 2);
            
   console.log(str) //Apples are round, and apples are juicy.
-  console.log(newstr) //[Apples, are]
+  console.log(newstr) //['Apples', 'are']
   console.log(str) //Apples are round, and apples are juicy.
   ```
 - [5.0](#5.0) <a name='1.0'></a> substr
@@ -94,7 +94,7 @@ List of immutable functions in JavaScript
 - [7.0](#7.0) <a name='1.0'></a> toLocaleLowerCase()
 
   ```js
-  //converts string ot lowercase by keeping it's current locale
+  //converts string to lowercase by keeping it's current locale
   
   var str = "Ron loves Hermionie"
   var newstr = str.toLocaleLowerCase()
@@ -106,7 +106,7 @@ List of immutable functions in JavaScript
 - [8.0](#8.0) <a name='1.0'></a> toLocaleUpperCase()
 
   ```js
-  //converts string ot uppercase by keeping it's current locale
+  //converts string to uppercase by keeping it's current locale
   
   var str = "Ron loves Hermionie"
   var newstr = str.toLocaleUpperCase()()
@@ -130,7 +130,7 @@ List of immutable functions in JavaScript
 - [10.0](#10.0) <a name='1.0'></a> toLowerCase()
 
   ```js
-  //converts string ot lowercase
+  //converts string to lowercase
   
   var str = "Ron loves Hermionie"
   var newstr = str.toLocaleLowerCase()
@@ -142,7 +142,7 @@ List of immutable functions in JavaScript
 - [11.0](#11.0) <a name='1.0'></a> toUpperCase()
 
   ```js
-  //converts string ot uppercase
+  //converts string to uppercase
   
   var str = "Ron loves Hermionie"
   var newstr = str.toLocaleUpperCase()()
