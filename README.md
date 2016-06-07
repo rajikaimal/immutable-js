@@ -102,6 +102,7 @@ List of immutable functions in JavaScript
   console.log(str) //Ron loves Hermionie
   console.log(newstr) //ron loves hermionie
   console.log(str) //Ron loves Hermionie
+  ```
   
 - [8.0](#8.0) <a name='1.0'></a> toLocaleUpperCase
 
@@ -114,6 +115,7 @@ List of immutable functions in JavaScript
   console.log(str) //Ron loves Hermionie
   console.log(newstr) //RON LOVES HERMIONIE
   console.log(str) //Ron loves Hermionie
+  ```
   
 - [9.0](#9.0) <a name='1.0'></a> toString
 
@@ -126,6 +128,7 @@ List of immutable functions in JavaScript
   console.log(phone) //124587921
   console.log(phonestr) // "124587921"
   console.log(phone) //124587921
+  ```
   
 - [10.0](#10.0) <a name='1.0'></a> toLowerCase
 
@@ -138,7 +141,8 @@ List of immutable functions in JavaScript
   console.log(str) //Ron loves Hermionie
   console.log(newstr) //ron loves hermionie
   console.log(str) //Ron loves Hermionie
- 
+  ```
+  
 - [11.0](#11.0) <a name='1.0'></a> toUpperCase
 
   ```js
