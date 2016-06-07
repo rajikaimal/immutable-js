@@ -77,3 +77,76 @@ List of immutable functions in JavaScript
   console.log(newstr) //Ten
   console.log(str) //Ten points for gryffindor
   ```
+  
+- [6.0](#6.0) <a name='1.0'></a> substring
+
+  ```js
+  //extracts part of a string
+  
+  var str = "Ten points for gryffindor"
+  var newstr = str.substring(0, 3)
+           
+  console.log(str) //Ten points for gryffindor
+  console.log(newstr) //Ten
+  console.log(str) //Ten points for gryffindor
+  ```
+
+- [7.0](#7.0) <a name='1.0'></a> toLocaleLowerCase()
+
+  ```js
+  //converts string ot lowercase by keeping it's current locale
+  
+  var str = "Ron loves Hermionie"
+  var newstr = str.toLocaleLowerCase()
+           
+  console.log(str) //Ron loves Hermionie
+  console.log(newstr) //ron loves hermionie
+  console.log(str) //Ron loves Hermionie
+  
+- [8.0](#8.0) <a name='1.0'></a> toLocaleUpperCase()
+
+  ```js
+  //converts string ot uppercase by keeping it's current locale
+  
+  var str = "Ron loves Hermionie"
+  var newstr = str.toLocaleUpperCase()()
+           
+  console.log(str) //Ron loves Hermionie
+  console.log(newstr) //RON LOVES HERMIONIE
+  console.log(str) //Ron loves Hermionie
+  
+- [9.0](#9.0) <a name='1.0'></a> toString()
+
+  ```js
+  //converts type to represent string
+  
+  var phone = 124587921
+  var phonestr = phone.toString()
+           
+  console.log(phone) //124587921
+  console.log(phonestr) // "124587921"
+  console.log(phone) //124587921
+  
+- [10.0](#10.0) <a name='1.0'></a> toLowerCase()
+
+  ```js
+  //converts string ot lowercase
+  
+  var str = "Ron loves Hermionie"
+  var newstr = str.toLocaleLowerCase()
+           
+  console.log(str) //Ron loves Hermionie
+  console.log(newstr) //ron loves hermionie
+  console.log(str) //Ron loves Hermionie
+ 
+- [11.0](#11.0) <a name='1.0'></a> toUpperCase()
+
+  ```js
+  //converts string ot uppercase
+  
+  var str = "Ron loves Hermionie"
+  var newstr = str.toLocaleUpperCase()()
+           
+  console.log(str) //Ron loves Hermionie
+  console.log(newstr) //RON LOVES HERMIONIE
+  console.log(str) //Ron loves Hermionie
