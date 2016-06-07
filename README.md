@@ -91,7 +91,7 @@ List of immutable functions in JavaScript
   console.log(str) //Ten points for gryffindor
   ```
 
-- [7.0](#7.0) <a name='1.0'></a> toLocaleLowerCase()
+- [7.0](#7.0) <a name='1.0'></a> toLocaleLowerCase
 
   ```js
   //converts string to lowercase by keeping it's current locale
@@ -103,7 +103,7 @@ List of immutable functions in JavaScript
   console.log(newstr) //ron loves hermionie
   console.log(str) //Ron loves Hermionie
   
-- [8.0](#8.0) <a name='1.0'></a> toLocaleUpperCase()
+- [8.0](#8.0) <a name='1.0'></a> toLocaleUpperCase
 
   ```js
   //converts string to uppercase by keeping it's current locale
@@ -115,7 +115,7 @@ List of immutable functions in JavaScript
   console.log(newstr) //RON LOVES HERMIONIE
   console.log(str) //Ron loves Hermionie
   
-- [9.0](#9.0) <a name='1.0'></a> toString()
+- [9.0](#9.0) <a name='1.0'></a> toString
 
   ```js
   //converts type to represent string
@@ -127,7 +127,7 @@ List of immutable functions in JavaScript
   console.log(phonestr) // "124587921"
   console.log(phone) //124587921
   
-- [10.0](#10.0) <a name='1.0'></a> toLowerCase()
+- [10.0](#10.0) <a name='1.0'></a> toLowerCase
 
   ```js
   //converts string to lowercase
@@ -139,7 +139,7 @@ List of immutable functions in JavaScript
   console.log(newstr) //ron loves hermionie
   console.log(str) //Ron loves Hermionie
  
-- [11.0](#11.0) <a name='1.0'></a> toUpperCase()
+- [11.0](#11.0) <a name='1.0'></a> toUpperCase
 
   ```js
   //converts string to uppercase
