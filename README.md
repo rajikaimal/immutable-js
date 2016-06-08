@@ -110,7 +110,7 @@ List of immutable functions in JavaScript
   //converts string to uppercase by keeping it's current locale
   
   var str = "Ron loves Hermionie"
-  var newstr = str.toLocaleUpperCase()()
+  var newstr = str.toLocaleUpperCase()
            
   console.log(str) //Ron loves Hermionie
   console.log(newstr) //RON LOVES HERMIONIE
@@ -149,7 +149,7 @@ List of immutable functions in JavaScript
   //converts string to uppercase
   
   var str = "Ron loves Hermionie"
-  var newstr = str.toLocaleUpperCase()()
+  var newstr = str.toLocaleUpperCase()
            
   console.log(str) //Ron loves Hermionie
   console.log(newstr) //RON LOVES HERMIONIE
