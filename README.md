@@ -154,3 +154,18 @@ List of immutable functions in JavaScript
   console.log(str) //Ron loves Hermionie
   console.log(newstr) //RON LOVES HERMIONIE
   console.log(str) //Ron loves Hermionie
+ 
+- [12.0](#12.0) <a name='1.0'></a> map
+
+  ```js
+  //iterates through an array
+  
+  var names = ['rajika', 'stephanie', 'taeyeon']
+  names.map(function(name) {
+      console.log(name)
+  })
+  //es6 syntax, arrow function
+  //names.map((name) => {
+  //  console.log(name)
+  //})
+  console.log(names)
