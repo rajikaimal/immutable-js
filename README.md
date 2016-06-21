@@ -170,3 +170,23 @@ List of immutable functions in JavaScript
   //  console.log(name)
   //})
   console.log(names)
+  ```
+  
+- [13.0](#12.0) <a name='1.0'></a> reduce
+
+  ```js
+  
+  var arr = [1,2,3,4]
+
+  var total = arr.reduce(function(prev, curr, index, arr) {
+    return prev + curr
+  });
+
+  console.log(arr) // [1,2,3,4]
+  console.log(total) //10
+  console.log(arr) // [1,2,3,4]
+  //es6 syntax, arrow function
+  //var total = arr.reduce((prev, curr, index, arr) => {
+    //return prev + curr
+  //});
+  ```
